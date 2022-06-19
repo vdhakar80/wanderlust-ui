@@ -1,0 +1,2 @@
+"test": "jest --coverage --coverageDirectory=output/coverage/jest",
+    "eject": "react-scripts eject"

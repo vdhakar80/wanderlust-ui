@@ -1,0 +1,56 @@
+<testsuites name="jest tests" tests="26" failures="0" time="8.705">
+  <testsuite name="\src\App.test.js" errors="0" failures="0" skipped="0" timestamp="2021-04-29T10:53:36" time="6.79" tests="26">
+    <testcase classname=" renders without crashing" name=" renders without crashing" time="0.213">
+    </testcase>
+    <testcase classname="testing app.js file checking for navbar" name="testing app.js file checking for navbar" time="0.049">
+    </testcase>
+    <testcase classname="testing app.js file checking for navbar header" name="testing app.js file checking for navbar header" time="0.032">
+    </testcase>
+    <testcase classname="testing app.js file checking for Switch" name="testing app.js file checking for Switch" time="0.017">
+    </testcase>
+    <testcase classname="testing app.js file checking for Redirect" name="testing app.js file checking for Redirect" time="0.019">
+    </testcase>
+    <testcase classname="testing app.js file checking for Route" name="testing app.js file checking for Route" time="0.02">
+    </testcase>
+    <testcase classname="testing app.js file checking for Router" name="testing app.js file checking for Router" time="0.019">
+    </testcase>
+    <testcase classname="testing app.js file checking for navbar nav" name="testing app.js file checking for navbar nav" time="0.02">
+    </testcase>
+    <testcase classname="testing app.js file checking for navbar link" name="testing app.js file checking for navbar link" time="0.017">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for Drawer" name="testing viewpackage.js file checking for Drawer" time="0.018">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for abouts" name="testing viewpackage.js file checking for abouts" time="0.022">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for Redirect" name="testing viewpackage.js file checking for Redirect" time="0.018">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for class " name="testing viewpackage.js file checking for class " time="0.071">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for showItinerary state" name="testing viewpackage.js file checking for showItinerary state" time="0.016">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for signup section" name="testing viewpackage.js file checking for signup section" time="0.033">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for form group class" name="testing viewpackage.js file checking for form group class" time="0.018">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for showItinerary state" name="testing viewpackage.js file checking for showItinerary state" time="0.015">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for loadHome state" name="testing viewpackage.js file checking for loadHome state" time="0.022">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for register Section" name="testing viewpackage.js file checking for register Section" time="0.046">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for register Page id" name="testing viewpackage.js file checking for register Page id" time="0.032">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for load login state" name="testing viewpackage.js file checking for load login state" time="0.029">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for form group class" name="testing viewpackage.js file checking for form group class" time="0.023">
+    </testcase>
+    <testcase classname="testing viewpackage.js file checking for changing state" name="testing viewpackage.js file checking for changing state" time="0.038">
+    </testcase>
+    <testcase classname="testing booking.js file checking for card" name="testing booking.js file checking for card" time="0.01">
+    </testcase>
+    <testcase classname="testing booking.js file checking for card header" name="testing booking.js file checking for card header" time="0.004">
+    </testcase>
+    <testcase classname="testing booking.js file checking for button" name="testing booking.js file checking for button" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
